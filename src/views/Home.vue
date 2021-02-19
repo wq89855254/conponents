@@ -4,6 +4,7 @@
       <input type="file" v-focus>
       <div class="drag" v-drag></div>
       <div>远程提交</div>
+        <div>远程提交2</div>
       <div>master提交</div>
   </div>
 </template>
