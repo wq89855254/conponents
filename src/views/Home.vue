@@ -6,6 +6,7 @@
       <div>远程提交</div>
         <div>远程提交2</div>
       <div>master提交</div>
+      <div>dev提交</div>
   </div>
 </template>
 <style type="scss" scoped>
