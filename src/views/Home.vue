@@ -4,6 +4,7 @@
       <input type="file" v-focus>
       <div class="drag" v-drag></div>
       <div>这是dev分支的内容,继续进行修改</div>
+        <div>直接在远程添加</div>
   </div>
 </template>
 <style type="scss" scoped>
