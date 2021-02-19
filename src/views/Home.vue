@@ -3,7 +3,7 @@
       <div class="testTost" @click="showToast">testTost</div>
       <input type="file" v-focus>
       <div class="drag" v-drag></div>
-
+      <div>远程提交</div>
   </div>
 </template>
 <style type="scss" scoped>
