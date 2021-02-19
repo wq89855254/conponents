@@ -3,6 +3,7 @@
       <div class="testTost" @click="showToast">testTost</div>
       <input type="file" v-focus>
       <div class="drag" v-drag></div>
+
   </div>
 </template>
 <style type="scss" scoped>
